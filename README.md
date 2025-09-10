@@ -6,9 +6,8 @@ I want to show my profile, bio, photo, links, social media, companies, projects,
 
 ## Links
 
-Checkout at [mhaidarhanif.com](https://mhaidarhanif.com)
-
-UI design on Figma: <https://figma.com/design/abc123def456/mhaidarhanif.com>
+- Checkout at [mhaidarhanif.com](https://mhaidarhanif.com)
+- UI design on Figma: <https://figma.com/design/abc123def456/mhaidarhanif.com>
 
 ## Social Media
 
