@@ -2,7 +2,7 @@
 
 This is the personal website of M Haidar Hanif.
 
-I want to show my profile, bio, photo, links, social media, companies, projects, posts, services, and much more.
+I want to show my profile, bio, photo, links, social media, companies, projects, posts, services, and many more.
 
 ## Links
 
