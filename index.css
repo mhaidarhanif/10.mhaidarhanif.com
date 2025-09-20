@@ -32,7 +32,12 @@ body {
 }
 
 .container {
+  border: 2px solid teal;
+  height: 500px;
   display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
 }
 
 .item {
