@@ -8,6 +8,15 @@ body {
   font-size: 24px;
 }
 
+.navigation-items li {
+  list-style: none;
+}
+
+.navigation-items li a {
+  color: black;
+  text-decoration: none;
+}
+
 .intro-name {
   font-size: 52px;
 }
