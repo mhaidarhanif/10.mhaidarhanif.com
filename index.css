@@ -15,6 +15,11 @@ body {
 .navigation-items li a {
   color: black;
   text-decoration: none;
+  font-weight: bold;
+}
+
+.navigation-items li a:hover {
+  color: #195b67;
 }
 
 .intro-name {
