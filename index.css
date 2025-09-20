@@ -30,3 +30,13 @@ body {
 .intro-job {
   font-size: 20px;
 }
+
+.container {
+  display: flex;
+}
+
+.item {
+  padding: 10px;
+  color: teal;
+  border: 2px solid teal;
+}
