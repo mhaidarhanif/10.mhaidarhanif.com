@@ -1,3 +1,17 @@
 body {
   font-family: sans-serif;
+  margin: 0 auto;
+  max-width: 50em;
+}
+
+.logo {
+  font-size: 24px;
+}
+
+.intro-name {
+  font-size: 52px;
+}
+
+.intro-job {
+  font-size: 20px;
 }
